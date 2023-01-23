@@ -10,7 +10,8 @@ https://public.tableau.com/app/profile/ben.fogler/viz/NYCCitibikeChallenge_16744
 
 ## Results
 **Checkout Time for Users**
----insert image here
+
+![trip_duration](https://user-images.githubusercontent.com/114610539/214150224-f3e9d167-2d17-4c59-b626-1f982075070e.png)
 
 
 
@@ -18,28 +19,30 @@ In this line graph you can see the largest quantity of riders have bikes checked
 
 
 **Snapshot of Short-Term vs. Long-Term**
------insert image here
+
+![customer_vs_subscriber](https://user-images.githubusercontent.com/114610539/214150275-13560b87-3ad6-4879-8f42-9863e0f05fac.png)
+
 
 In this pie chart you can see the volume of checkouts are by subscribers, which yeilds a better consistency when assuming monetary metrics.
 
 
 **Gender Breakout**
-----insert image
 
-
+![breakout](https://user-images.githubusercontent.com/114610539/214150329-5a6f71e4-c6f8-4d16-ad69-121ec8df4dca.png)
 
 In this pie chart you can see that the majority of users are Male. Understanding this information further will help determine advertising campaigns.
 
 
 **Checkout Times by Gender**
-----insert image
 
+![checkout_times_by_gender](https://user-images.githubusercontent.com/114610539/214150359-ec5af601-3ce0-464a-8ba2-0cabc4df66aa.png)
 
 In this 3 part line-chart you can see that regardless of Male or Female, the common length of bikes being checked out is 5 minutes.
 
 
 **Male vs. Female hourly Heatmap**
-----insert image
+
+![heatmap](https://user-images.githubusercontent.com/114610539/214150389-63bbdbb5-4152-4dbf-a9d9-e9b62c2a6802.png)
 
 In this heatmap we have a much better understanding of peak times when bikes are being checked out. Even though women checkout less than men, we can see that
 8 am and 5 pm are the peak times for bikes being checked out.
