@@ -50,7 +50,7 @@ As you can see in these 5 visualizations, there will likely be a large volume of
 
 The 2 additional visualizations I would perform with this dataset are:
 
-	*It would be good to see if location drives whether or not the checkouts are Male or Female. This could then tell us if there is a higher checkout 
+	* It would be good to see if location drives whether or not the checkouts are Male or Female. This could then tell us if there is a higher checkout 
 	  in more Rural areas vs. Urban areas.
-	*It would be good to see if the bike maintenance plays a significant role in quantity of bikes being checked out. This insight could help us
+	* It would be good to see if the bike maintenance plays a significant role in quantity of bikes being checked out. This insight could help us
 	  better predict proper maintenance periods.
